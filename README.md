@@ -29,3 +29,6 @@ ItalianBillingSystem/
 ├── icons/                     # Icons
 ├── italian_billing_system.py  # Main source code
 └── README.md                  # Project documentation
+
+<img width="1878" height="912" alt="Screenshot 2026-01-17 203444" src="https://github.com/user-attachments/assets/30cbc846-a486-425a-a70d-e16a1ac2f9ba" />
+
