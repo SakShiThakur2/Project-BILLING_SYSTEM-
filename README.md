@@ -21,6 +21,15 @@ The **Italian Billing System** is a Python-based desktop GUI application develop
 - **Utilities:** `os`, `tempfile`, `random`
 - **IDE:** VS Code 
 
+## 🖥️ Main Billing System Interface
+<img width="1878" height="912" alt="Screenshot 2026-01-17 203444" src="https://github.com/user-attachments/assets/19a1922a-a58a-4722-994b-86617c0ca28d" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-01-17 203645" src="https://github.com/user-attachments/assets/02af2aaa-17fc-4a4c-9a80-826ea67480cf" />
+
+<img width="906" height="987" alt="Screenshot 2026-01-17 203748" src="https://github.com/user-attachments/assets/99e70a45-bb91-4bfd-b800-9a709bd4cb21" />
+
+<img width="1878" height="912" alt="Screenshot 2026-01-17 204931" src="https://github.com/user-attachments/assets/08ce0ea6-b8e3-4c20-9945-144eba130cea" />
+
 ## 📦 Project Structure
 ```plaintext
 ItalianBillingSystem/
@@ -30,5 +39,4 @@ ItalianBillingSystem/
 ├── italian_billing_system.py  # Main source code
 └── README.md                  # Project documentation
 
-<img width="1878" height="912" alt="Screenshot 2026-01-17 203444" src="https://github.com/user-attachments/assets/30cbc846-a486-425a-a70d-e16a1ac2f9ba" />
 
