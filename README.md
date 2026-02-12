@@ -1,6 +1,6 @@
-#  Italian Cafe Billing System
+#  Billing System
 
-The **Italian Billing System** is a Python-based desktop GUI application developed using **Tkinter**. It is designed for small Italian cafés or restaurants to simplify the billing process. The software allows item selection, calculates the total cost (including GST), generates a bill, and even sends it to the customer's email directly.
+The **Billing System( or Italian Billing System)** is a Python-based desktop GUI application developed using **Tkinter**. It is designed for small Italian cafés or restaurants to simplify the billing process. The software allows item selection, calculates the total cost (including GST), generates a bill, and even sends it to the customer's email directly.
 
 ## 🧾 Features
 - GUI-based intuitive billing system
